@@ -33,11 +33,13 @@
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhakturk&show_icons=true&theme=dark&locale=en&layout=compact" alt="nuhakturk" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhakturk&show_icons=true&theme=dark&locale=en&layout=compact" alt="nuhakturk" />
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuhakturk&show_icons=true&theme=dark&locale=en" alt="nuhakturk" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nuhakturk&show_icons=true&theme=dark&locale=en" alt="nuhakturk" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuhakturk&theme=dark" alt="nuhakturk" /></p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuhakturk&theme=dark" alt="nuhakturk" />
+</p>
