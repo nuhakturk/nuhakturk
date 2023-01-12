@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhakturk&show_icons=true&theme=dark&locale=en&layout=compact" alt="nuhakturk" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhakturk&show_icons=true&theme=dark&locale=en&layout=compact" alt="nuhakturk" />
 </p>
 
 <p align="center">
